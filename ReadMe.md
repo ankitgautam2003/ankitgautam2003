@@ -30,15 +30,12 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgautam2003&layout=compact&theme=radical" alt="Top Languages" />
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitgautam2003&theme=tokyo-night" alt="Contribution Graph" />
-
 </div>
 
-
-![](https://github-readme-stats.vercel.app/api?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ankitgautam2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   -->
+
 
 
 # 💻 Tech Stack
