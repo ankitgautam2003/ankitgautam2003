@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Ankit..." alt="Typing Animation" />
-</div>
-
 
 
 - 🔭 I’m currently a student in IIIT-Vadodra 
