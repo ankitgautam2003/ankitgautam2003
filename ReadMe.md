@@ -67,8 +67,9 @@
 
 <div align="center">
   <!-- Typing SVG Text -->
-  ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&duration=2000&lines=Fullstack+Developer;Open-Source+Enthusiast)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&duration=2000&lines=Fullstack+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
+
 
 
 </div>
