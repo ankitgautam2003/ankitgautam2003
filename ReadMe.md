@@ -1,8 +1,14 @@
 <div align="center">
- <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
-  <img class="image" src="header.svg" alt="Click to see the source">
- </a>
+  <a class="link" href="header.svg">
+    <img class="image" src="header.svg" alt="Header with Ankit..." />
+  </a>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Ankit..." alt="Typing Animation" />
+</div>
+
+
 
 - 🔭 I’m currently a student in IIIT-Vadodra 
 - 🌱 I’m currently learning 
@@ -64,12 +70,6 @@
 </div>
 
 <div align="center">
-  <!-- Animated Header -->
-  ![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=Hey%2C%20I'm%20Ankit!&fontSize=45)
-
-  <!-- Example Badge -->
-  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ankitgautam2003)
-
   <!-- Typing SVG Text -->
   ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&duration=2000&lines=Fullstack+Developer;Open-Source+Enthusiast)
 </div>
