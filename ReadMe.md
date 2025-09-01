@@ -18,6 +18,24 @@
 
 
 # 📊 GitHub Stats:
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitgautam2003&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitgautam2003&theme=radical" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgautam2003&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitgautam2003&theme=tokyo-night" alt="Contribution Graph" />
+
+</div>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ankitgautam2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
