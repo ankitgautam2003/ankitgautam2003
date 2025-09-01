@@ -58,19 +58,22 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitgautam2003&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitgautam2003&theme=radical" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgautam2003&layout=compact&theme=radical" alt="Top Languages" />
-
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitgautam2003&theme=tokyo-night" alt="Contribution Graph" />
 
 </div>
+
+<div align="center">
+  <!-- Animated Header -->
+  ![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=Hey%2C%20I'm%20Ankit!&fontSize=45)
+
+  <!-- Example Badge -->
+  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ankitgautam2003)
+
+  <!-- Typing SVG Text -->
+  ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&duration=2000&lines=Fullstack+Developer;Open-Source+Enthusiast)
+</div>
+
 
 </div>
 
